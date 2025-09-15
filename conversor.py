@@ -19,7 +19,7 @@ def conversor_bin_dec():
         break
 
     # Si el usuario escoge la opcion 1
-    if opcion == 1:
+    if opcion == "1":
         print("Por favor, ingrese el numero binario a convertir: ")
 
         # En caso de error, se volvera a pedir el numero correcto
