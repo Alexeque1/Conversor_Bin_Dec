@@ -9,7 +9,7 @@ def conversor_bin_dec():
 
     # Pedir al usuario la opcion
     while True:
-        opcion = int(input("> "))
+        opcion = input("> ")
 
         # Comprobar que la opcion sea correcta
         # En caso de error, se volvera a pedir la opcion correcta
